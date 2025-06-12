@@ -4,7 +4,7 @@
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Electronics+%26+Communication+Student;Full+Stack+Developer;AI+%26+ML+Enthusiast;Problem+Solver;Competitive+Programmer)](https://git.io/typing-svg)
 
-📍 **Hazaribag, Jharkhand** | 📧 **rounitsinha11@gmail.com** | 📱 **+91 7541049459**
+📍 **Hazaribag, Jharkhand** | 📧 **rounitsinha11@gmail.com** 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rounit-kumar-sinha/)
 [![Linktree](https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/rounit_sinha)
